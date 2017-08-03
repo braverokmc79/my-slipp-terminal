@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: my-slipp-terminal
+Implementation-Version: 1.0
+Built-By: choi
+Implementation-Vendor-Id: net.slipp
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/my-slipp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
